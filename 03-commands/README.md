@@ -28,6 +28,11 @@ Here is a list of basic commands to get information about the system, network, a
 | **`mkdir`**             | Creating folder -p for multiple creation means parent folders.                            |
 | **`mv`**                | Move or rename                                                                            |
 | cp                      | copy                                                                                      |
+| which                   | find out install folder                                                                   |
+| find                    | find but supports paramteres -type f/d -name -user -size -newermt -exec -al               |
+| locate                  | faster finding but uses db db should be updated if need find newer things                 |
+| sudo updatedb           | update db for locate so can add newer things to locate finding list                       |
+|                         |                                                                                           |
 
 ---
 *Tip: Use `man <command>` to learn more details about any of these tools!*

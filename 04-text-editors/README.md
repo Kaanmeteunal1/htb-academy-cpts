@@ -30,6 +30,7 @@ gg for move to start of the file
 ?word for cursor to top
 ctrl+o for go back when you search and wanted to go back your stuff or word
 ctrl-i for forward
+lesson 4.3 continue
 
 
 
