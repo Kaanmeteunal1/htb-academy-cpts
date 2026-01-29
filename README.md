@@ -1,8 +1,8 @@
-# 🐧 Linux Fundamental Notes
+# 🐧 Hack The Box Pentester Path
 
-Welcome to my Linux study repository!
+Welcome to my Hack The Box Pentester Path study repository!
 
-I created this project to keep track of my progress while learning Linux. My goal is to understand the operating system better for my future career in Cyber Security.
+I created this project to keep track of my progress while learning pentest. My goal is to understand the operating system better for my future career in Cyber Security.
 
 I will update this repository as I complete new modules and learn new commands.
 
@@ -13,7 +13,7 @@ I am currently adding notes from my daily studies.
 ## 📂 What is Inside?
 I have divided my notes into different sections to make it easy to read.
 
-### 1. Introduction to Linux
+### 1. Linux Fundamentals
 * [x] **[Linux Filesystem Hierarchy](Linux-Fundamentals/01-file-system-hierarchy/README.md)**
   *Summary:* Explaining `/bin`, `/etc`, `/home`, and other core directories.
 * [x] **[Customizing the PS1 Prompt](Linux-Fundamentals/02-shell/README.md)**
