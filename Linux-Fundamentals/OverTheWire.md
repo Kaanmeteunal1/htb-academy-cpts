@@ -1,2 +1,2 @@
 Linux fundamentals bandit game level progress
-Currently level 9.
+Currently level 12.
